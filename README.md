@@ -41,9 +41,9 @@ echo 'TOKEN=Your token here' > Token.env
 ```bash
 pip install -r requirements.txt
 ```
-+ Run the bot using python or open it direclty using `./bot.py`
++ Run the bot using python or open it direclty using `./main.py`
 ```bash
-python bot.py
+python main.py
 ```
 #### One line command
 ```bash
