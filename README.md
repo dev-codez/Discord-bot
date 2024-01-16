@@ -1,5 +1,5 @@
-# Simple Staff Utils
-Handy crafted Simple Staff Utils will help you manage your discord server together with your staff Team!
+# Simple Discord bot
+Handy crafted bot to help you manage your discord server together with your staff Team!
 
 <br>
 
