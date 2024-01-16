@@ -19,6 +19,37 @@ Handy crafted bot to help you manage your discord server together with your staf
 • >Beta Defends your guild thanks to role reaction system!
 
 # installation
++ Clone the repository
+```bash
+git clone https://github.com/dev-codez/ReelXrobot
+```
++ Navigate to files directory
+```bash
+cd ReelXrobot
+```
++ Give Execute permission to main file
+```bash
+chmod +x bot.py
+```
++ Initialize token
+```bash
+echo 'TOKEN=Your token here' > Token.env
+```
+> Example: `echo 'TOKEN=1234567890:AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQR' > Token.env`                                       
+> Or edit Token.env file manually!
++ Install requirements
+```bash
+pip install -r requirements.txt
+```
++ Run the bot using python or open it direclty using `./bot.py`
+```bash
+python bot.py
+```
+#### One line command
+```bash
+git clone https://github.com/dev-codez/ReelXrobot && cd ReelXrobot && chmod +x bot.py && pip install -r requirements.txt
+```
+> You still need to configure your **token**
 
 
 # Usage
