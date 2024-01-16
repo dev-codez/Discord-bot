@@ -5,9 +5,17 @@ Handy crafted bot to help you manage your discord server together with your staf
 
 ## List of main features
 • Fire and hire commands with customisable role assigns
+
 • Fast responses and ticket / mailing feature
+
 • DOUBLE server setup!
+
 • Manage your team's roles and sync them with the main server in real time
+
 • Let your staff take a break and don't worry anymore of reassigning roles
+
 • Strong permissions system to catch criminals and suspend staff
-• Beta > Defends your guild thanks to role reaction system!
+
+• >Beta Defends your guild thanks to role reaction system!
+
+# installation
