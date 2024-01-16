@@ -21,22 +21,22 @@ Handy crafted bot to help you manage your discord server together with your staf
 # installation
 + Clone the repository
 ```bash
-git clone https://github.com/dev-codez/ReelXrobot
+git clone https://github.com/dev-codez/discord-bot
 ```
 + Navigate to files directory
 ```bash
-cd ReelXrobot
+cd discord-bot
 ```
 + Give Execute permission to main file
 ```bash
-chmod +x bot.py
+chmod +x main.py
 ```
 + Initialize token
 ```bash
-echo 'TOKEN=Your token here' > Token.env
+echo 'TOKEN=Your token here' > config.json
 ```
 > Example: `echo 'TOKEN=1234567890:AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQR' > Token.env`                                       
-> Or edit Token.env file manually!
+> Or edit config.json file manually!
 + Install requirements
 ```bash
 pip install -r requirements.txt
