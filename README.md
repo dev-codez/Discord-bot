@@ -33,10 +33,9 @@ chmod +x main.py
 ```
 + Initialize token
 ```bash
-echo 'TOKEN=Your token here' > config.json
+nano config.json
 ```
-> Example: `echo 'TOKEN=1234567890:AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQR' > Token.env`                                       
-> Or edit config.json file manually!
+`and enter your bot token'
 + Install requirements
 ```bash
 pip install -r requirements.txt
@@ -47,13 +46,10 @@ python main.py
 ```
 #### One line command
 ```bash
-git clone https://github.com/dev-codez/ReelXrobot && cd ReelXrobot && chmod +x bot.py && pip install -r requirements.txt
+git clone https://github.com/dev-codez/discord-bot && cd discord-bot && chmod +x main.py && pip install -r requirements.txt
 ```
 > You still need to configure your **token**
 
-
-# Usage
-For the usage just send reel URL copied from instagram to bot. Note that some rells can't be downloaded.
 > You can also host your bot in [pythonanywhere](https://www.pythonanywhere.com) for free.
 
 <br><br>
